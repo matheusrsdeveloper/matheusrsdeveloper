@@ -1,16 +1,78 @@
-## Hi there 👋
+# 👨🏽‍💻 Matheus Rodrigues
+**`Desenvolvedor FullStack`**
 
-<!--
-**matheusrsdeveloper/matheusrsdeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Full Stack em formação, apaixonado por tecnologia e criação de soluções web modernas. Tenho conhecimentos em Java, Python, desenvolvimento Front-End e Back-End, além de experiência com HTML, CSS, JavaScript, banco de dados e Git/GitHub. 
 
-Here are some ideas to get you started:
+Atualmente desenvolvo projetos acadêmicos e pessoais para aprimorar minhas habilidades práticas, sempre buscando aprender novas tecnologias e evoluir como profissional da área de desenvolvimento de software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#
+
+### 🤖 Linguagens e Tecnologias
+
+<img
+align="left"
+alt="HTML"
+title="HTML"
+width="40px"
+style="padding-right: 10px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+
+<img
+align="left"
+alt="CSS"
+title="CSS"
+width="40px"
+style="padding-right: 10px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+        
+
+<img
+align="left"
+alt="JavaScript"
+title="JavaScript"
+width="40px"
+style="padding-right: 10px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+/>
+
+<img
+align="left"
+alt="Java"
+title="Java"
+width="40px"
+style="padding-right: 10px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
+/>
+
+<img
+align="left"
+alt="Python"
+title="Python"
+width="40px"
+style="padding-right: 10px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+/>
+
+<img
+align="left"
+alt="Mysql"
+title="Mysql"
+width="40px"
+style="padding-right: 10px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+/>
+
+<img
+align="left"
+alt="Git"
+title="Git"
+width="40px"
+style="padding-right: 10px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+/>
+          
+          
+          
+          
