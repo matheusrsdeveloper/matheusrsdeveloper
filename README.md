@@ -1,9 +1,9 @@
 # 👨🏽‍💻 Matheus Rodrigues
 **`Desenvolvedor FullStack`**
 
-Desenvolvedor Full Stack em formação, apaixonado por tecnologia e criação de soluções web modernas. Tenho conhecimentos em Java, Python, desenvolvimento Front-End e Back-End, além de experiência com HTML, CSS, JavaScript, banco de dados e Git/GitHub. 
+Desenvolvedor Full Stack em formação, com foco no desenvolvimento de aplicações web modernas e escaláveis. Possuo conhecimentos em Java, Python, JavaScript, React, HTML, CSS e banco de dados, além de experiência com versionamento utilizando Git e GitHub.
 
-Atualmente desenvolvo projetos acadêmicos e pessoais para aprimorar minhas habilidades práticas, sempre buscando aprender novas tecnologias e evoluir como profissional da área de desenvolvimento de software.
+Atualmente aprimoro minhas habilidades por meio de projetos acadêmicos e pessoais, aplicando na prática conceitos de desenvolvimento Front-End e Back-End. Sou dedicado ao aprendizado contínuo e à busca por soluções eficientes, mantendo-me atualizado com as principais tecnologias e boas práticas do desenvolvimento de software.
 
 #
 
